@@ -1,4 +1,4 @@
-//first fit
+//first fit fixed partition
 #include<iostream>
 using namespace std;
 
